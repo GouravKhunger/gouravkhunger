@@ -14,7 +14,6 @@ I also have a [blog](https://genicsblog.com) about programming related stuff. I 
 
 - 🌱 I’m currently learning advanced concepts in android development
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 Goals for 2021: Getting Google Certified in Android Development
 - ⚡ Fun fact: I love to talk 😅
 
 ## Tools / Languages:
