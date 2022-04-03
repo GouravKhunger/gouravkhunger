@@ -47,6 +47,7 @@ These are the tools and languages that I have worked with and have experience ab
 - StackOverflow: [Gourav](https://stackoverflow.com/users/9819031)
 - Hashnode: [@gourav_khunger](https://hashnode.com/@gouravkhunger)
 - Twitter: [@gourav_khunger](https://twitter.com/gourav_khunger)
+- LinkedIn: [Gourav Khunger](https://www.linkedin.com/in/gourav-khunger-584351216/)
 - Ko-Fi: [gouravkhunger](https://ko-fi.com/gouravkhunger)
 - [Blog](https://genicsblog.com)
 - Discord Handle: gourav#2215
