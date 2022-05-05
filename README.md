@@ -8,7 +8,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Gourav ✌️, a 16 years old android app developer with interests in web development too. I am student of 11th grade living in India.
+Hi, I'm Gourav ✌️, a 16 years old android app developer with interests in web development too. I am student of 12th grade living in India.
 
 I also have a [blog](https://genicsblog.com) about programming related stuff. I contribute to open source projects that I like.
 
