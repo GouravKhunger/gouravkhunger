@@ -8,9 +8,11 @@
 
 <img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
-Hi, I'm Gourav ✌️, a 16 years old android app developer with interests in web development too. I am student of 12th grade living in India.
+Hi, I'm Gourav ✌️, a 17 years old android app developer with interests in web development too. I am student of 12th grade living in India.
 
-I also have a [blog](https://genicsblog.com) about programming related stuff. I contribute to open source projects that I like.
+I run an [open-source](https://github.com/genicsblog) developer [blog](https://genicsblog.com) where we publish high quality tutorials for the developer community. I contribute to open source projects in my free time.
+
+I built [JekyllEx](https://github.com/jekyllex) and now trying to port the [Jekyll](https://jekyllrb.com) SSG development experience to android devices by compiling [ruby for android](https://github.com/jekyllex/ruby-android). Interested in working together? Shoot a DM 😄
 
 - 🌱 I’m currently learning advanced concepts in android development
 - 👯 I’m looking to collaborate with other content creators
@@ -42,15 +44,13 @@ These are the tools and languages that I have worked with and have experience ab
 
 ## Profiles:
 
-- Email: Visible below my profile on github
-- Youtube: [Gourav Khunger](https://www.youtube.com/channel/UCkv-J_D8jK2N02nBcyM92mQ)
+- Email: Should be visible in the sidebar
+- Youtube: [Gourav Khunger](https://www.youtube.com/c/gouravkhunger)
 - StackOverflow: [Gourav](https://stackoverflow.com/users/9819031)
-- Hashnode: [@gourav_khunger](https://hashnode.com/@gouravkhunger)
+- Genics: [@gouravkhunger](https://genicsblog.com/author/gouravkhunger/)
 - Twitter: [@gourav_khunger](https://twitter.com/gourav_khunger)
 - LinkedIn: [Gourav Khunger](https://www.linkedin.com/in/gourav-khunger-584351216/)
-- Ko-Fi: [gouravkhunger](https://ko-fi.com/gouravkhunger)
-- [Blog](https://genicsblog.com)
-- Discord Handle: gourav#2215
+- Discord: [gourav#2215](https://discord.com/users/510819809198473216)
 
 ## Github Stats:
 
