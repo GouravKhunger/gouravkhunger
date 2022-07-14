@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Gourav](https://gouravkhunger.xyz)
+# Hi there 👋 I'm [Gourav](https://gouravkhunger.me)
 
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=GouravKhunger&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Gourav's stats" />
