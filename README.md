@@ -4,7 +4,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=GouravKhunger&theme=darkhub&margin-w=15&margin-h=15&column=6&v=2" alt="Gourav's stats" />
 </p>
 
-## About Me:
+## About Me
 
 <img src="https://komarev.com/ghpvc/?username=GouravKhunger&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
@@ -18,7 +18,7 @@ I built [JekyllEx](https://github.com/jekyllex) and now trying to port the [Jeky
 - 👯 I’m looking to collaborate with other content creators
 - ⚡ Fun fact: I love to talk 😅
 
-## Tools / Languages:
+## Tools / Languages
 
 These are the tools and languages that I have worked with and have experience about using them.
 
@@ -42,19 +42,18 @@ These are the tools and languages that I have worked with and have experience ab
 ![Premier Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobe-premiere%20pro)
 ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=microsoft-office&logoColor=D83B01)
 
-## Profiles:
+## Profiles
 
-- Email: Should be visible in the sidebar
-- Youtube: [Gourav Khunger](https://www.youtube.com/c/gouravkhunger)
+- Youtube: [Gourav Khunger](https://www.youtube.com/gouravkhunger)
 - StackOverflow: [Gourav](https://stackoverflow.com/users/9819031)
 - Genics: [@gouravkhunger](https://genicsblog.com/author/gouravkhunger/)
 - Twitter: [@gourav_khunger](https://twitter.com/gourav_khunger)
 - LinkedIn: [Gourav Khunger](https://www.linkedin.com/in/gourav-khunger-584351216/)
-- Discord: [gourav#2215](https://discord.com/users/510819809198473216)
+- Discord: gourav#2215
 
-## Github Stats:
+## Github Stats
 
 <p align="center">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=GouravKhunger&count_private=true&include_all_commits=true&theme=tokyonight" alt="GouravKhunger's stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GouravKhunger&layout=compact&theme=tokyonight" alt="GouravKhunger's top language stats" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=gouravkhunger&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight" alt="Gourav Khunger's open source stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouravkhunger&langs_count=8&hide=c%2B%2B&layout=compact&theme=tokyonight" alt="Gourav Khunger's top used programming language stats" />
 </p>
